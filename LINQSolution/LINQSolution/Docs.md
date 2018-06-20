@@ -1,0 +1,3 @@
+﻿You'll learn these techniques by building an application that demonstrates one of the basic skills of any magician: the faro shuffle. Briefly, a faro shuffle is a technique where you split a card deck exactly in half, then the shuffle interleaves each one card from each half to rebuild the original deck.
+
+Magicians use this technique because every card is in a known location after each shuffle, and the order is a repeating pattern.
